@@ -14,7 +14,7 @@ Equivalence Partitioning: Dua partisi (test case valid dan test case invalid).
 3.	Cari dengan lebih dari satu kata.
 -	Keyword: “full stack”
 -	Ekspektasi: Menampilkan mentor yang relevan.
--	
+  
 ### Invalid Test Case
 1.	Cari dengan keyword yang tidak relevan.
 -	Keyword: “asdafwgrkj”
